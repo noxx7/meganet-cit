@@ -1,10 +1,10 @@
 (function start() {
     const interval = 200
 
-    const id = "" //insert id here
+    const id = "" // paste id here
     function auto() {
         const data = {
-            "_id": "67e31bcbe59e60a5004d7863",
+            "_id": "", // also paste here
             "connectDiscord": false,
             "connectX": false,
             "followX": false,
