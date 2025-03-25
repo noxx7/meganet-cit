@@ -8,3 +8,6 @@ after that, click it and copy the _id and paste it into the code
 
 ![image](https://github.com/user-attachments/assets/8543bc90-802d-49bd-b90e-6e6676a7ba91)
 
+
+
+edit interval sesuka hati, ga tanggung jawab kalau kena ban
