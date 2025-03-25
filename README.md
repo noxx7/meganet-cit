@@ -1,6 +1,5 @@
 # meganet-cit
-
-open your browser console > go to network tab and look for this one
+click this link https://meganet.app/dashboard and open your browser console > go to network tab and look for this one
 
 ![image](https://github.com/user-attachments/assets/b45ee890-d2b1-424c-8984-2776735cf962)
 
